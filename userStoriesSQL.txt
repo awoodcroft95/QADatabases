@@ -1,0 +1,21 @@
+User Stories SQL Scenarios
+
+1. Animal Adoption Service
+    a. As a Health Care Officer, I want to query which animals have not been neutered so I can book an appointment with the vets.
+    b. As a Social Media Consultant, I want to query which animals have been there the longest so I can create a campaign online to get them homed quickly.
+    c. As a Receptionist, I want to query animals by specific criteria to help direct customers to the animals they wish to adopt(type, breed, age).
+    d. As a Receptionist, I want to update which animals have been adopted.
+    e. As a _________, I want to add new animals to the databse.
+    f. As a _________, I want to record information about new customers.
+    g. As a _________, I want to record which customers have adopted which animals.
+    h. As a _________, I want to get all animals which have been adopted and get their adopters.
+
+2. Book Publishing Company
+    a. As a Publishing Director, I want to search for our most lucrative author so I can appropriately reward them.
+    b. As a Marketing Executive, I wish to search for most popular genres by a specific author to create tailored advertising schemes.
+    c. As an Author Liaison, I want to search for books that are not yet complete by the order of the date they were started, so I can manage authors effectively.
+    d. As a Marketing Executive, I wish to search for books that will be released soon, so we can start marketing them.
+    e. As an Author Liaison, I want to search for the most popular genres so we can find more authors who write that genre. (sales of that genre)
+    f. As an Author Liaison, I want to see an author's most common/popular genre.
+    g. I want to see all the books an author has written.
+    h. I want to update the number of sales a book has.
